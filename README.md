@@ -8,17 +8,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Sofia Ferreira Costa
+- Matricula: 902830
+- Proposta de projeto escolhida: Galeria e obras.
+- Breve descrição sobre seu projeto: O projeto se trata de uma galeria online que expõe e vende pinturas e fotografias ligadas à arte de rua.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Print do wireframe criado](site_print.png)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Print da página criada](Site_SteetView_Wireframe.png)
